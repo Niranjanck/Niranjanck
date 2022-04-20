@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on (You will find it later)
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on some intresting projects
-- 💬 Ask me about Python, Vue and Blockchain 
+- 💬 Ask me about Python, Vue 
 - 📫 How to reach me: **niranjankkv1999@gmail.com**
 
 
