@@ -8,6 +8,8 @@
   <a href="https://instagram.com/niranjan_ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NiranjanCK" height="20" width="30" /></a>
   <a href="https://linkedin.com/in/niranjan-ck-18449b148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NiranjanCk" height="20" width="30" /></a>
   <a href="https://twitter.com/NiranjanCK1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NiranjanCk" height="20" width="30" /></a>
+ <a href="https://codepen.io/niranjanck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="niranjanck" height="30" width="40" /></a>
+
 
  </p>
 <h2>⚡️ A Few Quick Facts</h2>
@@ -28,6 +30,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://vuejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
+ <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 [comment]: <> (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png" alt="manjaro linux" width="25" height="25" />)
 [comment]: <> (<img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="fish-shell" width="25" height="25" />)
