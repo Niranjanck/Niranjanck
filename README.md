@@ -1,7 +1,7 @@
 
 
 <h2>Hello, I'am Niranjan CK<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>I'm  a first year MCA student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>.</p>
+<p>MCA student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>.</p>
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://t.me/Nj_Ck"><img src="https://img.shields.io/badge/-@Nj_Ck-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/Nj_Ck" alt="Telegram Badge"></a>
  <a href="https://www.hackerrank.com/niranjankkv1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="NiranjanCK" height="30" width="40" /></a>
