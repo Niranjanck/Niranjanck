@@ -11,17 +11,6 @@
  <a href="https://codepen.io/niranjanck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="niranjanck" height="30" width="40" /></a>
 
  </p>
-
-<h2>⚡️ A Few Quick Facts</h2>
-
-- 🔭 I’m currently working on (You will find it later)
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to collaborate on some intresting projects
-- 💬 Ask me about Python, Vue 
-- 📫 How to reach me: **niranjankkv1999@gmail.com**
-
-
-<h2>🚀 Some Tools I Use..</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
 
