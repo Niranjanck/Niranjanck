@@ -1,7 +1,7 @@
 
 
 <h2>Hello, I'am Niranjan CK<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>MCA student <strong><a href="https://cev.ac.in/">@CEV Vadakara</a></strong>.</p>
+<strong>Developer</strong>
 <p> :shipit: Come Lets grab something new</p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
